@@ -64,7 +64,7 @@ namespace Screenmedia.JazzHands.Droid
 
 			_scroller = FindViewById<JazzHandsHorizontalScrollView> (this.Id);
 			_viewBody = SafeCastFirstView (_scroller.GetChildAt (0));
-			_viewBody.SetBackgroundColor (Android.Graphics.Color.WhiteSmoke);
+
 
 			if (_viewBody == null)
 				throw new Exception ("The RelativeLayout that the animation content goes in is not available. Please make sure you have a RelativeLayout within you JazzHandsHorizontalScrollView");
