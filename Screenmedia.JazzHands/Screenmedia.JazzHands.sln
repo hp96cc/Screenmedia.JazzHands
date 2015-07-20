@@ -115,7 +115,4 @@ Global
 		{12DDE312-AFFD-4152-B302-D70DB5D46191} = {D6A45933-D0DC-48DA-8184-6996FFBE693E}
 		{A5851FBE-820F-4DF7-967D-7D25C4C71EB7} = {D6A45933-D0DC-48DA-8184-6996FFBE693E}
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Screenmedia.JazzHands.TouchDemo\Screenmedia.JazzHands.TouchDemo.csproj
-	EndGlobalSection
 EndGlobal

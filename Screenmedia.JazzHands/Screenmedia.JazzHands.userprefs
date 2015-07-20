@@ -1,9 +1,23 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Screenmedia.JazzHands.Droid/Animator.cs">
+﻿<Properties StartupItem="Screenmedia.JazzHands.Droid.Demo/Screenmedia.JazzHands.Droid.Demo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screenmedia.JazzHands.Droid.Demo/MainActivity.cs">
     <Files>
-      <File FileName="Screenmedia.JazzHands.Droid/Animator.cs" Line="20" Column="20" />
+      <File FileName="Screenmedia.JazzHands.Droid/Animator.cs" Line="1" Column="1" />
+      <File FileName="Screenmedia.JazzHands.Droid/JazzHandsHorizontalScrollView.cs" Line="1" Column="1" />
+      <File FileName="Screenmedia.JazzHands.Droid.Demo/MainActivity.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Demo" expanded="True">
+            <Node name="Screenmedia.JazzHands.Droid.Demo" expanded="True" />
+          </Node>
+          <Node name="Library" expanded="True">
+            <Node name="Screenmedia.JazzHands.Droid" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
